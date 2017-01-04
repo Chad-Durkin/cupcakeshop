@@ -1,17 +1,13 @@
-h2.intro {
-  font-size: 50px;
+.intro {
   font-weight: 900px;
   font-family: AndaleMono;
   text-align: center;
-
+}
+h2 {
+  font-size: 50px;
 }
 
-p.intro {
-  color:white;
-  font-size: 19px;
-}
-
-img.intro {
+img{
   width:100%;
 }
 
