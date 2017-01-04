@@ -1,3 +1,9 @@
+body {
+  background-color: SteelBlue;
+  text-align: center;
+  font-style: italic;
+}
+
 .header {
   color: deeppink;
   font-size: 50px;
@@ -55,10 +61,4 @@ li {
   color: mediumspringgreen;
   font-size: 20px;
   line-height: 40px;
-
-}
-body {
-  background-color: SteelBlue;
-  text-align: center;
-  font-style: italic;
 }
