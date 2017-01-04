@@ -1,4 +1,4 @@
-# _Cookie-shop and Boring-lecture
+# _Cookie-shop and Boring-lecture_
 
 #### _A website for a cookie shop and a website displaying a boring lecture, 01/04/17_
 
@@ -16,11 +16,13 @@ _None_
 
 _If you run into any issues or have any questions, ideas or concerns, please contact one of us at Chaddurkin@gmail.com or meiqianye@gmail.com_
 
-##Technologies Used
+## Technologies Used
 
-_HTML_
-_CSS_
-_GITHUB_
+_*HTML_
+
+_*CSS_
+
+_*GIT_
 
 ### License
 
