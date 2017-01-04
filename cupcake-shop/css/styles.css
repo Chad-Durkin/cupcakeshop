@@ -1,38 +1,64 @@
 .header {
-  text-align: center;
-  color: #660000;
+  color: deeppink;
   font-size: 50px;
   font-family: monospace;
 }
 
 .intro {
   text-shadow: #66aaaa 2px 2px;
-  text-align: center;
   text-decoration: underline;
   font-size: 20px;
 }
 
 .flashy {
-  text-align: center;
-  color: red;
+  color: mediumvioletred;
   font-size: 40px;
   font-style: italic;
 }
 
 .flashydisc {
-  text-align: center;
-  color: brown;
+  color: peachpuff;
   font-size: 20px;
 }
 
 h2 {
-  color: red;
+  color: mediumvioletred;
+  font-size: 25px;
 }
 
 .cash {
-  color: green;
+  color: limegreen;
 }
 
+ul {
+  display: inline-block;
+  text-align: left;
+  border: white solid;
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 20px;
+}
+
+li {
+  color: Peachpuff;
+  font-size: 18px;
+}
+
+.red {
+  color: red;
+  font-size: 19px;
+}
+
+.best {
+  color: mediumspringgreen;
+  font-size: 20px;
+  line-height: 40px;
+
+}
 body {
-  background-color: LightBlue;
+  background-color: SteelBlue;
+  text-align: center;
+  font-style: italic;
 }
